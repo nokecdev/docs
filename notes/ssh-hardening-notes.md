@@ -1,3 +1,11 @@
+---
+title: SSH Hardening Notes
+date: 2026-04-28
+tags: [ssh, security]
+excerpt: Notes on SSH port migration and hardening
+readingTime: 2
+---
+
 # SSH Hardening Notes (Port Change & Authentication)
 
 When modifying SSH configuration, always keep an active SSH session open.
