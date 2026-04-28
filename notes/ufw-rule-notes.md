@@ -1,3 +1,11 @@
+---
+title: UFW Rule Management
+date: 2026-04-28
+tags: [ufw, security, firewall]
+excerpt: Notes for UFW rule management
+readingTime: 1
+---
+
 # UFW Rule Management
 
 ## List rules:
