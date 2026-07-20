@@ -219,14 +219,14 @@ Current deployment includes
 
 ## Dashboard
 
-![Dashboard](/assets/images/hiddenflags/a2.png)
+![Dashboard](https://raw.githubusercontent.com/nokecdev/docs/main/assets/images/hiddenflags/a2.png)
 
 ---
 
 
 ## Feed view on mobile
 
-![Feed](/assets/images/hiddenflags/a4.png)
+![Feed](https://raw.githubusercontent.com/nokecdev/docs/main/assets/images/hiddenflags/a4.png)
 
 ---
 
