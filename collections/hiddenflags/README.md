@@ -108,7 +108,7 @@ Today HiddenFlags consists of multiple independent services communicating throug
 
 # Architecture
 
-*(Architecture diagram here)*
+![Architectural Diagram of HiddenFlags](https://raw.githubusercontent.com/nokecdev/docs/main/assets/images/hiddenflags/diagram.png)
 
 
 The platform follows a microservice architecture where each service owns its own responsibility and data.
